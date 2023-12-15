@@ -1,3 +1,1 @@
 # ASKS_Fedchak
-
-Hello
